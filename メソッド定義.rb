@@ -3,4 +3,4 @@ def greeting(name)
   "Good morning, #{name}!"
 end
 
-puts greeting('John')  # 'John'を引数として渡す
+puts greeting('John')  # 'John'を引数として渡したgreetingメソッドをputs
